@@ -20,16 +20,16 @@ Features
 
 Project Structure
 AI-chatbox-challenge/
-│── app/
-│   ├── __init__.py
-│   ├── main.py          # FastAPI app entry point
-│   ├── auth.py          # Authentication logic
-│   ├── database.py      # Database setup (SQLite)
-│   ├── models.py        # Database models
-│   ├── schemas.py       # Request/response schemas
-│── README.md
-│── LICENSE
-│── .gitignore
+ app/
+*  __init__.py
+*    main.py          # FastAPI app entry point
+*   auth.py          # Authentication logic
+*    database.py      # Database setup (SQLite)
+*   models.py        # Database models
+*    schemas.py       # Request/response schemas
+*── README.md
+*── LICENSE
+*│── .gitignore
 
 How to Run
 1. Clone the repository
